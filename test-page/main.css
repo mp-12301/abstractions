@@ -1,0 +1,30 @@
+.main {
+  width: 100%;
+}
+
+.colour {
+  margin-top: 10px;
+  box-sizing: border-box;
+  padding: 12px;
+}
+
+.red {
+  border: 10px solid red;
+}
+
+.yellow {
+  border: 10px solid yellow;
+}
+
+.orange {
+  border: 10px solid orange;
+}
+
+.green {
+  border: 10px solid green;
+}
+
+.colours {
+  display: flex;
+  flex-direction: row;
+}
