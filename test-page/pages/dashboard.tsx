@@ -9,6 +9,9 @@ export default function Dashboard() {
         <li>
           <NavLink to="react/use-store">use-store</NavLink>
         </li>
+        <li>
+          <NavLink to="react/use-effect-when">use-effect-when</NavLink>
+        </li>
       </ul>
 
       <Outlet />
